@@ -16,5 +16,6 @@ A beginner-friendly contact manager application built in Python. This project ru
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
+git clone https://github.com/RayanAlsobhi/python-contact-app.git
+cd python-contact-app
+ 
